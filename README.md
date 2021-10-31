@@ -5,7 +5,7 @@
 const Phil = {
   aboutMe: {
     intro: 'My name is Phil and currently I am a CS student at Algonquin College!',
-    interests: [Table Top Games, Fantasy Hockey, Podcasting],
+    interests: ['Table Top Games', 'Fantasy Hockey', 'Podcasting'],
   },
   code: [Javascript, Typescript, HTML/CSS, Java, Dart],
   tools: [Node, Git, Azure, Selenium],
